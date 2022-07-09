@@ -25,7 +25,7 @@ colors = ["Black", "White"]
 background(colors)
 
 # 이름과 설명, 버튼에 들어갈 글 설정
-write("name", "DerA")
+write("name", "황재민")
 write("description", "학생")
 write("button", "확인")
 
@@ -34,6 +34,6 @@ informations = {
   "생년월일": "071005",
   "출신지": "대구",
   "나이": "16",
-  "취미": "컴퓨터, 노래 듣기"
+  "취미": "컴퓨터, 노래 듣기, 농구"
 }
 information(informations)
